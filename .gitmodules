@@ -1,0 +1,3 @@
+[submodule "main/TMC-API"]
+	path = main/TMC-API
+	url = main/git@github.com:analogdevicesinc/TMC-API.git
